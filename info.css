@@ -1,0 +1,13 @@
+body {
+    background-image: url('https://t3.ftcdn.net/jpg/01/89/50/34/360_F_189503495_Xu1itt1SLG9FnKwzYK2YaYRpfSvRWcLu.jpg');
+    background-size: cover;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100px;
+    font-style: normal;
+    justify-content: center;
+    color: rgb(255, 253, 253);
+}
+h1{
+    margin-bottom: 50px;
+}
